@@ -195,15 +195,15 @@ This project successfully implements all required features:
 
 ## 📸 Screenshots
 
-[Add your screenshots here]
+(./screenshot/screenshot.png)
 
 ## 🎬 Video Walkthrough
 
-[Add your video walkthrough link here]
+(./screenshot/ezgif-8ec4f1538dff5e.git)
 
 ## 👨‍💻 Author
 
-[Your Name] - [Your GitHub Profile]
+[Thomas] - [https://github.com/thomaszhang2661/]
 
 ## 📄 License
 
