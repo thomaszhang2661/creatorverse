@@ -199,7 +199,7 @@ This project successfully implements all required features:
 
 ## 🎬 Video Walkthrough
 
-![Video Demo](https://s8.ezgif.com/tmp/ezgif-8ec4f1538dff5e.gif)
+![Video Demo](./screenshot/ezgif-8ec4f1538dff5e.gif)
 
 ## 👨‍💻 Author
 
