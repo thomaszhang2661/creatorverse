@@ -195,15 +195,15 @@ This project successfully implements all required features:
 
 ## 📸 Screenshots
 
-(./screenshot/screenshot.png)
+![Screenshot](./screenshot/screenshot.png)
 
 ## 🎬 Video Walkthrough
 
-(./screenshot/ezgif-8ec4f1538dff5e.git)
+![Video Demo](./screenshot/ezgif-8ec4f1538dff5e.git)
 
 ## 👨‍💻 Author
 
-[Thomas] - [https://github.com/thomaszhang2661/]
+[Thomas](https://github.com/thomaszhang2661/)
 
 ## 📄 License
 
